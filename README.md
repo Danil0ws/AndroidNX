@@ -65,7 +65,7 @@ Este pacote não contém arquivos que habilitam pirataria. Todo o crédito perte
 ## Agradecimentos especiais
 - [Switchroot](https://switchroot.org/) pela configuração para Nintendo Switch.
 - [Lineage](https://lineageos.org/) pela imagem do Android para Nintendo Switch.
-- [NikGapps](https://github.com/CTCaer/hekate/) pelo gapps para o Android.
+- [NikGapps](https://nikgapps.com/) pelo gapps para o Android.
 - [CTCaer](https://github.com/CTCaer/hekate/) pelo Hekate e Nyx.
 - Todos os desenvolvedores que contribuem para a cena homebrew do Switch.
 
